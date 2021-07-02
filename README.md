@@ -1,6 +1,6 @@
 - 👋 Hi, I’m simerpreet jassal
 - 👀 I’m interested in javascript ecosystem (Node and React)
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on web developmemnt projects 
 - 📫 How to reach me: simerpreetjassal13@gmail.com
 
